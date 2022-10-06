@@ -8,7 +8,7 @@ html {
 
 /* ici */
 .siteTitle {
-    /*display: block;*/
+
     font-weight: 900;
     font-size: 30px;
     margin: 200px;
@@ -24,7 +24,7 @@ footer {
 
 .card {
     height: 400px;
-    /*position: relative;*/
+
     padding: 20px;
     /*box-sizing: border-box;*/
     display: flex;
